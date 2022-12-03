@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppUsuarios</string>
+    <string name="userTxt">Correo / Ususario</string>
+    <string name="passwordTxt">Contraseña</string>
+    <string name="nameTxt">Nombre</string>
+    <string name="loginTxt">Ingresar</string>
+    <string name="registerTxt">Registrarse</string>
+    <string name="returnTxt">Volver</string>
+    <string name="errorAccess">Usuario o clave incorrectos</string>
+    <string name="emptyAccess">por favor ingrese valores de usuario o clave validos</string>
+
+    <string name="LOGIN_URL">https://josesantosdev.com/clase/permitir.php?</string>
+    <string name="CREATE_URL">https://josesantosdev.com/clase/crear.php?</string>
+</resources>
